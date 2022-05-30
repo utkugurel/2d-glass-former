@@ -1,9 +1,10 @@
 # 2D Glass Former
 
-#### Trajectory of 2D glass forming liquid composed of binary hard disks with a packing fraction of 0.78
+The state of hard disk system is controlled by the packing fraction. The low density state corresponds to the liquid phase, whereas high density state corresponds to crystalline state. We observe the glass transition around the packing fraction of 0.795
 
-![traj0780](https://user-images.githubusercontent.com/19888110/170997087-d9442c76-7734-4584-9380-d57f3e988afe.gif)
+#### Trajectory of 2D glass forming liquid composed of binary hard disks with a packing fraction of 0.75
 
+![traj0750](https://user-images.githubusercontent.com/19888110/170997476-bb0b5804-2f6b-4738-80be-ec987822e5cc.gif)
 
 #### Trajectory of 2D glass forming liquid composed of binary hard disks with a packing fraction of 0.795
 
